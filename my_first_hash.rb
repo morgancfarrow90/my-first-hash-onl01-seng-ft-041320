@@ -27,4 +27,5 @@ shipping_manifest["muskets"] = 2
 shipping_manifest["muskets"]
 shipping_manifest["gun power"] = 4
 shipping_manifest["gun powder"]
+return shipping_manifest
 end
