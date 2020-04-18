@@ -26,8 +26,3 @@ def adding
 shipping_manifest["muskets"] = 2
 return shipping_manifest
 end
-
-def adding
-shipping_manifest["gun power"] = 4
-return shipping_manifest
-end
