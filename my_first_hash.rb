@@ -1,5 +1,4 @@
-def my_hash
-   my_hash = {"name" => "Morgan", "eye color" => "green", "hair color" => "brown"}
+def my_hash = {"name" => "Morgan", "eye color" => "green", "hair color" => "brown"}
 end
 
   
