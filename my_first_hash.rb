@@ -7,8 +7,6 @@ def shipping_manifest
   "porcelain vase" => 2,
   "oil painting" => 3}
 end
-return "We have ."
-end
 
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
