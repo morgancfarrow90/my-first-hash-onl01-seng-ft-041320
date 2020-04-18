@@ -24,6 +24,7 @@ def adding
                   "oil paintings" => 3
                  }
 shipping_manifest["muskets"] = 2
+puts shipping_manifest
 shipping_manifest["gun power"] = 4
 puts shipping_manifest
 end
