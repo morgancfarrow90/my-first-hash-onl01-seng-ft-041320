@@ -33,5 +33,5 @@ shipping_manifest["gun power"] = 4
 
 
   # return the shipping_manifest hash below
-
+return shipping_manifest
 end
