@@ -24,10 +24,10 @@ def adding
                   "oil paintings" => 3
                  }
 shipping_manifest["muskets"] = 2
-puts shipping_manifest
+return shipping_manifest
 end
 
 def adding
 shipping_manifest["gun power"] = 4
-puts shipping_manifest
+return shipping_manifest
 end
