@@ -27,6 +27,5 @@ shipping_manifest["muskets"] = 2
 shipping_manifest
 shipping_manifest["gun power"] = 4
 shipping_manifest
-end
 return shipping_manifest
 end
