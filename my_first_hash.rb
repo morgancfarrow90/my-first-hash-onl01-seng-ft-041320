@@ -7,7 +7,7 @@ def shipping_manifest
   "porcelain vase" => 2,
   "oil painting" => 3}
 end
-return "We have #{the_manifest}."
+return "We have ."
 end
 
   # set a variable called `the_manifest`, equal to a hash
