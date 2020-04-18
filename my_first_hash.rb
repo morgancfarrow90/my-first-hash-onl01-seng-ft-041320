@@ -25,9 +25,9 @@ def adding
                  }
 shipping_manifest["muskets"] = 2
 puts shipping_manifest
+end
 
 def adding
 shipping_manifest["gun power"] = 4
-shipping_manifest
-return shipping_manifest
+puts shipping_manifest
 end
